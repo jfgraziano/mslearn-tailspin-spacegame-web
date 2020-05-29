@@ -1,6 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 <ItemGroup>
-  <PackageReference Include="Tailspin.SpaceGame.Web.Models2" Version="1.0.0-CI-20200529-174230" />
+  <PackageReference Include="Tailspin.SpaceGame.Web.Models" Version="1.0.0-CI-20200529-174230" />
 </ItemGroup>
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
